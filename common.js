@@ -601,11 +601,11 @@ if (page7wrap) {
 
             if (item.value === 'light') {
                 loading_programming.style.background = '#b2feff53'
-                bg_programming.style.background = 'url("/img/imagine_bg.svg")no-repeat'
+                bg_programming.style.background = 'url("../img/imagine_bg.svg")no-repeat'
                 bg_programming.style.backgroundSize = '37vw'
                 bg_programming.style.top = '10vw'
                 bg_programming.style.left = '3.5vw'
-                face_programming.style.background = 'url("/img/imagine_face.svg")no-repeat'
+                face_programming.style.background = 'url("../img/imagine_face.svg")no-repeat'
                 face_programming.style.backgroundSize = '7vw'
                 face_programming.style.top = '7.5vw'
                 face_programming.style.left = '18.5vw'
@@ -615,9 +615,9 @@ if (page7wrap) {
                 bubble_programming.style.display = 'none'
             } else if (item.value === 'dark') {
                 loading_programming.style.background = '#00000253'
-                bg_programming.style.background = 'url("/img/reality_bg.svg")no-repeat'
+                bg_programming.style.background = 'url("../img/reality_bg.svg")no-repeat'
                 bg_programming.style.backgroundSize = '37vw'
-                face_programming.style.background = 'url("/img/reality_face.svg")no-repeat'
+                face_programming.style.background = 'url("../img/reality_face.svg")no-repeat'
                 face_programming.style.backgroundSize = '7vw'
                 face_programming.style.top = '7vw'
                 face_programming.style.left = '18vw'
