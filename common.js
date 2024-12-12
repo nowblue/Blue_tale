@@ -709,7 +709,7 @@ if (page8wrap) {
             };
             img.onerror = function () {
                 const teaComImg_tea = document.querySelector(".middle_tea .tea_com");
-                teaComImg_tea.setAttribute("src", "../img/strange.png");
+                teaComImg_tea.setAttribute("src", "../img/strange.PNG");
                 teaComImg_tea.style.display = "block";
             };
         }
